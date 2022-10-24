@@ -1,4 +1,4 @@
-# TicTacoToe
+# TicTacToe
 A game made in cpp. Includes GUI created with SDL2 library. The only available gamemode is Player vs AI. Difficulty level
 can be chosen in "main.cpp" file by changing parameter in Game class constructor. AI uses minimax algorithm.
 
